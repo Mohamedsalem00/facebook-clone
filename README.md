@@ -167,6 +167,11 @@ For questions, suggestions, or collaboration opportunities:
 - **GitHub:** [Mohamedsalem00](https://github.com/Mohamedsalem00)
 - **Portfolio:** https://mohamedsalem00.github.io
 
+## Screenshot
+
+![Screenshot of Facebook Clone](https://github.com/user-attachments/assets/ba5af6f4-477d-4df6-b707-077f8bee676b)
+
+
 ---
 
 © 2025 Mohamedsalem00. All rights reserved.

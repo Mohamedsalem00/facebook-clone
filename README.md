@@ -20,7 +20,7 @@ This is a static frontend clone of Facebook's web interface, built with HTML, CS
   - Navigation system
 
 ## Project Structure
-
+```
 facebook-clone/ 
 ├── index.html # Main HTML file 
 ├── styles.css # Main CSS file 
@@ -54,14 +54,15 @@ facebook-clone/
       │
       ├── group2.jpg │ 
       └── ...
-
+```
 
 ## Installation & Usage
 
 1. Clone the repository:
+```
 git clone https://github.com/Mohamedsalem00/facebook-clone.git
-
-2. Open `index.html` in your browser to view the project
+```
+3. Open `index.html` in your browser to view the project
 - No build process or external dependencies required
 - All functionality works client-side
 

@@ -165,7 +165,7 @@ This project is created for educational and demonstration purposes only. Faceboo
 For questions, suggestions, or collaboration opportunities:
 
 - **GitHub:** [Mohamedsalem00](https://github.com/Mohamedsalem00)
-- **Portfolio:** https://mohamedsalem00.github.io
+- **Portfolio:** https://mohamedsalem00.github.io/portfolio/
 
 ## Screenshot
 

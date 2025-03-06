@@ -17,6 +17,7 @@ This project is a static frontend clone of Facebook's web interface, built using
 - [Future Enhancements](#future-enhancements)
 - [License](#license)
 - [Contact](#contact)
+- [Screenshot](#screenshot)
 
 ## Features
 

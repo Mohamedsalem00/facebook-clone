@@ -1,6 +1,6 @@
 # Facebook Clone Project
 
-**Created by:** Mohamedsalem00  
+**Created by:** [Mohamed Salem](https://github.com/Mohamedsalem00)  
 **Last Updated:** March 5, 2025 at 2:44:57 AM
 
 ## Overview
